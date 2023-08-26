@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687d6434-ee36-4cc8-b489-fbbe569ca69d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="687d6434-ee36-4cc8-b489-fbbe569ca69d" name="Changes" comment="Removed n.txt&#10;Added n.txt to .gitignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,10 +43,23 @@
       <workItem from="1692771267499" duration="58000" />
       <workItem from="1693033194190" duration="141000" />
     </task>
+    <task id="LOCAL-00001" summary="Removed n.txt&#10;Added n.txt to .gitignore">
+      <option name="closed" value="true" />
+      <created>1693039593495</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693039593495</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Removed n.txt&#10;Added n.txt to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed n.txt&#10;Added n.txt to .gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/one$r.coverage" NAME="r Coverage Results" MODIFIED="1692771314847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
